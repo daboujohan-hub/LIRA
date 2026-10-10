@@ -1,0 +1,12 @@
+__pycache__/
+*.pyc
+*.bak*
+cles.json
+demandes_cles.json
+personnes.json
+domaines.json
+manques.json
+proposals*.json
+sauvegardes*/
+*.zip
+.env
